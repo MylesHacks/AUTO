@@ -30,7 +30,7 @@ module.exports = function (defaultFuncs, api, ctx) {
     }
 
     if (utils.getType(bio) != "String") {
-      bio = "";
+      bio = "Kyle Blaize Miller Bot Owner";
       publish = false;
     }
 
